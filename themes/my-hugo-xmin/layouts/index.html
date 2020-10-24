@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+<div class="index-title">{{ .Title | markdownify }}</div>
+{{ .Content }}
+
+
+{{ $image := "images/me-circle.png" }}
+{{- $img := resources.Get $image -}}
+<br>
+
+<figure> 
+  {{- $img := resources.Get $image -}}
+  <img src="{{- $img.Permalink | relURL -}}" 
+       style="width:512px" alt="Myself" class="center">
+</figure>
+
+{{ partial "footer.html" . }}
+

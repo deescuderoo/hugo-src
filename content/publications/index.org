@@ -1,0 +1,79 @@
+---
+title: "Publications"
+draft: false
+---
+
+* Peer-Reviewed Publications
+
+** 2021
+
+- Secure Training of Decision Trees with Continuous Attributes
+  - *Authors:* Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
+  - PoPETs 2021
+
+** 2020
+
+- Secure Evaluation of Quantized Neural Networks 
+  - *Authors:* Anders Dalskov, Daniel Escudero and Marcel Keller.
+  - PoPETs 2020
+
+- Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits 
+  - *Authors:* Daniel Escudero, Satrajit Ghosh, Marcel Keller, Rahul Rachuri, Peter Scholl
+  - CRYPTO 2020
+
+- Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE 
+  - *Authors:* Carsten Baum, Daniel Escudero, Alberto Pedrouzo-Ulloa, Peter Scholl, Juan Ramón Troncoso-Pastoriza
+  - SCN 2020
+
+- Asymptotically Good Multiplicative LSSS over Galois Rings and Applications to MPC over Z/p^k Z 
+  - *Authors:* Mark Abspoel, Ronald Cramer, Ivan Damgård, Daniel Escudero, Matthieu Rambaud, Chaoping Xing and Chen Yuan
+  - Asiacrypt 2020
+
+** 2019
+
+- New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning 
+  - *Authors:* Ivan Damgård, Daniel Escudero, Tore Kasper Frederiksen, Marcel Keller, Peter Scholl, Nikolaj Volgushev.
+  - S&P 2019
+
+- Efficient Information-Theoretic Secure Multiparty Computation over Z/p^kZ via Galois Rings 
+  - *Authors:* Mark Abspoel, Ronald Cramer, Ivan Damgård, Daniel Escudero, Chen Yuan:
+  - TCC 2019
+
+** 2018
+
+- SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
+  - *Authors:* Ronald Cramer, Ivan Damgård, Daniel Escudero, Peter Scholl, Chaoping Xing.
+  - CRYPTO 2018
+
+- Rank Analysis of Cubic Multivariate Cryptosystems 
+  - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Karan Khathuria, and Javier A. Verbel.
+  - PQCrypto 2018
+    
+** 2016
+
+- Efficient ZHFE Key Generation 
+  - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Jaiberth Porras- Barrera, and Javier A. Verbel.
+  - PQCrypto 2016
+
+* Non Peer-Reviewed Research Items
+
+- LSS Homomorphisms and Applications to Secure Signatures, Proactive Secret Sharing and Input Certification
+  - *Authors:* Diego F. Aranha, Anders P. K. Dalskov, Daniel Escudero, Claudio Orlandi
+  - [[https://eprint.iacr.org/2020/691][Link]]
+
+- An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings 
+  - *Authors:* Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof 
+  - [[https://eprint.iacr.org/2019/1298][Link]]
+
+    
+* Manuscripts
+
+** 2018
+- Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack 
+  - Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[https://www.overleaf.com/read/cpbwvkmdgbyg][Link]]
+** 2016
+- Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
+  - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[https://www.overleaf.com/read/wfnntwdvzgpr][Link]]
+ 

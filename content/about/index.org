@@ -1,0 +1,29 @@
+---
+title: "About"
+draft: false
+---
+
+* Daniel Escudero
+
+/*This website is still under construction*/
+
+Hello! Welcome to my homepage. I am Daniel Escudero, I started in May 2017 as a PhD student at the [[http://users-cs.au.dk/orlandi/cryptogroup/][Cryptography and Security group at Aarhus University]], Denmark. I'm currently working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor's degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.
+
+My research focuses on developing, enhancing, implementing and deploying different cryptographic techniques that allows us to enhace privacy and enforce information security. I also enjoy research related to the foundations of Cryptography and the interactions between Mathematics and Cryptography. I'm particularly interested in the following topics
+
+
+- Interactions between algebra and cryptography, particularly Multivariate Cryptography and Secret Sharing
+- Secure Multiparty Computation
+- Provable security and interactions between complexity theory and cryptography
+- Private Machine Learning
+
+I have also been recently interested in Distributed Systems and Quantum Cryptography.
+
+Finally, the cryptographic techniques we use today are just the tip of the iceberg of what we actually know after decades of research. We have wonderful techniques such as Zero Knowledge Proofs, MPC, ORAM, that can achieve things that at first glance seem impossible, if deployed correctly in our real world. One of my interests is to break the barrier between theory and practice and show these techniques to the world. For this I'm very open to
+
+- A proper training of the users of the systems, making them conscious of what is being achieved
+- Interactions with industry for the actual deployment of these techniques
+
+*Contact:* escudero (at) cs (dot) au (dot) dk
+
+An updated version of my CV can be found [[https://www.overleaf.com/read/mzpcpqgjvtnt][here]]. 

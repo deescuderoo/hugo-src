@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+draft: false
+---
+
+I've been a teaching assistant in the following courses.
+
+- Machine Learning (Aarhus University, fall 2020)
+- Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020)
+- Distributed Systems and Security (Aarhus University, fall 2018)
+- Computability and Logic (Aarhus University, spring 2018)
+- Machine Learning (Aarhus University, fall 2017)
+- Vector and Analytic Geometry (UNAL, 2016)
+- Basic Mathematics (UNAL, 2015)
+- Linear Algebra (UNAL, 2014)
