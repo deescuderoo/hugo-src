@@ -1,10 +1,12 @@
 ---
 title: "Other"
-date: 2019-08-24T21:33:54+02:00
-draft: true
+date: 
+draft: false
 ---
 
 * Music
+I enjoy playing and composing music.
+
 {{< youtube QnMdikQNTUs>}}
 
 {{< youtube GsTXHa8UQNA>}}

@@ -1,0 +1,22 @@
+---
+title: "Dissemination"
+date: 
+draft: false
+---
+
+* A Crash Course on MPC
+I am working on a series of posts explaining MPC from the ground up.
+These can be found in our blog, [[https://medium.com/applied-mpc][The Sugar Beet: Applied MPC]].
+
+The following are the current posts online:
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184][Part 0, Introduction]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-1-791c3e351d3c][Part 1, Basic Terminology and Essential Results]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-2-fe6f847640ae][Part 2, Two-Party Computation using Beaver/Multiplication Triples]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-3-c3f302153929][Part 3, Shamir Secret-Sharing]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-4-789eca123593][Part 4, Honest-Majority MPC with Passive Security]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-5-8171386754ef][Part 5, Error Detection and Error Correction]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-6-7728c985d16][Part 6: MPC with Active Security for t<n/3]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-7-23272abd3cd9][Part 7: Honest-Majority MPC with Active Security]]
+- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-8-363374202e6][Part 8: Two-Party MPC with Active Security]]
+
+
