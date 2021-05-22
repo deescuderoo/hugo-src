@@ -7,16 +7,18 @@ draft: false
 
 ** 2021
 
+- Efficient Information-Theoretic Multi-Party Computation over Non-Commutative Rings
+  - *Authors:* Daniel Escudero and Eduardo Soria-Vazquez
+  - ACNS 2021
 - Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
   - *Authors:* Anders Dalskov, Daniel Escudero and Marcel Keller
-  - ACNS 2021
+  - USENIX 2021
 - Secure Training of Decision Trees with Continuous Attributes
   - *Authors:* Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
   - PoPETs 2021
 - An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings 
   - *Authors:* Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof 
   - ACNS 2021
-
 
 ** 2020
 
