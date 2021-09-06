@@ -7,56 +7,82 @@ draft: false
 
 ** 2021
 
+- Improved Single-Round Secure Multiplication Using Regenerating Codes
+  - *Authors:* Mark Abspoel, Ronald Cramer, Daniel Escudero, Ivan Damgård and Chaoping Xing
+  - Asiacrypt 2021
+  - [[https://eprint.iacr.org/2021/253][Link]]
+- Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+  - *Authors:* Ivan Damgård, Daniel Escudero, Divya Ravi
+  - TCC 2021
+- Improved Threshold Signatures, Proactive Secret Sharing, and Input Certification from LSS Isomorphisms
+  - *Authors:* Diego F. Aranha, Anders Dalskov, Daniel Escudero and Claudio Orlandi
+  - Latincrypt 2021
+- Honest Majority MPC with Abort with Minimal Online Communication
+  - *Authors:* Daniel Escudero and Anders Dalskov
+  - Latincrypt 2021
+  - [[https://eprint.iacr.org/2020/1556][Link]]
 - Efficient Information-Theoretic Multi-Party Computation over Non-Commutative Rings
   - *Authors:* Daniel Escudero and Eduardo Soria-Vazquez
-  - ACNS 2021
+  - CRYPTO 2021
+  - [[https://eprint.iacr.org/2021/1025][Link]]
 - Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
   - *Authors:* Anders Dalskov, Daniel Escudero and Marcel Keller
   - USENIX 2021
+  - [[https://eprint.iacr.org/2020/1330][Link]]
 - Secure Training of Decision Trees with Continuous Attributes
   - *Authors:* Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
   - PoPETs 2021
+  - [[https://eprint.iacr.org/2020/1130][Link]]
 - An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings 
   - *Authors:* Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof 
   - ACNS 2021
+  - [[https://eprint.iacr.org/2019/1298][Link]]
 
 ** 2020
 
 - Secure Evaluation of Quantized Neural Networks 
   - *Authors:* Anders Dalskov, Daniel Escudero and Marcel Keller.
   - PoPETs 2020
+  - [[https://eprint.iacr.org/2019/131][Link]]
 
 - Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits 
   - *Authors:* Daniel Escudero, Satrajit Ghosh, Marcel Keller, Rahul Rachuri, Peter Scholl
   - CRYPTO 2020
+  - [[https://eprint.iacr.org/2020/338][Link]]
 
 - Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE 
   - *Authors:* Carsten Baum, Daniel Escudero, Alberto Pedrouzo-Ulloa, Peter Scholl, Juan Ramón Troncoso-Pastoriza
   - SCN 2020
+  - [[https://eprint.iacr.org/2020/970][Link]]
 
 - Asymptotically Good Multiplicative LSSS over Galois Rings and Applications to MPC over Z/p^k Z 
   - *Authors:* Mark Abspoel, Ronald Cramer, Ivan Damgård, Daniel Escudero, Matthieu Rambaud, Chaoping Xing and Chen Yuan
   - Asiacrypt 2020
+  - [[https://eprint.iacr.org/2020/1256][Link]]
 
 ** 2019
 
 - New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning 
   - *Authors:* Ivan Damgård, Daniel Escudero, Tore Kasper Frederiksen, Marcel Keller, Peter Scholl, Nikolaj Volgushev.
   - S&P 2019
+  - [[https://eprint.iacr.org/2019/599][Link]]
 
 - Efficient Information-Theoretic Secure Multiparty Computation over Z/p^kZ via Galois Rings 
   - *Authors:* Mark Abspoel, Ronald Cramer, Ivan Damgård, Daniel Escudero, Chen Yuan:
   - TCC 2019
+  - [[https://eprint.iacr.org/2019/872][Link]]
 
 ** 2018
 
 - SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
   - *Authors:* Ronald Cramer, Ivan Damgård, Daniel Escudero, Peter Scholl, Chaoping Xing.
   - CRYPTO 2018
+  - [[https://eprint.iacr.org/2018/482][Link]]
 
 - Rank Analysis of Cubic Multivariate Cryptosystems 
   - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Karan Khathuria, and Javier A. Verbel.
   - PQCrypto 2018
+  - [[https://eprint.iacr.org/2018/110][Link]]
     
 ** 2016
 
