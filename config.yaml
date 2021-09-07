@@ -31,9 +31,12 @@ menu:
     - name: Teaching
       url: "teaching/"
       weight: 6
-    - name: Other
-      url: "other/"
+    - name: Music
+      url: "music/"
       weight: 7
+    - name: Resources
+      url: "resources/"
+      weight: 8
 
 params:
   description: "A website built through Hugo and blogdown."

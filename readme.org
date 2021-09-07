@@ -6,3 +6,5 @@
 * Hugo cheatsheet
 
 ~hugo server -D~
+* CCS
+- Selectors https://www.w3schools.com/cssref/css_selectors.asp
