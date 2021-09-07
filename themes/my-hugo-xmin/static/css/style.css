@@ -60,3 +60,14 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+/* HACK: Selects only top level list items */
+/* div > ul > li { */
+/*     margin: 20px; */
+/* } */
+li p {
+    margin: 5px;
+}
+li:last-child {
+    margin-bottom: 20px;
+}
