@@ -1,0 +1,38 @@
+---
+title: "Videos"
+date:
+description: "List of several interesting videos and playlists"
+draft: true
+---
+
+* Cryptography
+
+Videos related to cryptography. Since my background lies mostly in secure multiparty computation, I expect a considerable large amount of the resources below to lie within that field.
+
+** General Youtube Accounts
+
+- [[https://www.youtube.com/user/TheIACR/playlists][Youtube account of the IACR]]. They typically host several major conferences like CRYPTO, Eurocrypt, Asiacrypt, TCC, PKC, and other IACR events.
+- [[https://www.youtube.com/channel/UC-m6oi7a-8LffTk64J3tq-w/playlists][Youtube account of the Privacy Enhancing Technologies Symposium]]. Hosts the recordings from the PoPETs conferences.
+- [[https://www.youtube.com/c/UsenixOrg/playlists][Youtube account of USENIX]]. Recordings from the USENIX conferences, being of particular relevance /USENIX Security/ (e.g. [[https://youtube.com/playlist?list=PLbRoZ5Rrl5lc5qioGfLRwcJaTmXeKdSku][2019]] and [[https://youtube.com/playlist?list=PLbRoZ5Rrl5leqxwFLw3lAQ9on-fK5xLea][2020]])
+- [[https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q/playlists][Youtube account of the IEEE Symposium on Security and Privacy]]. Recordings from the S&P conferences.
+- [[https://www.youtube.com/user/TheOfficialACM/playlists][Youtube account of the Association for Computing Machinery (ACM)]]. Hosts several recordings from many ACM conferences, being particularly relevant PODC (e.g. [[https://www.youtube.com/playlist?list=PLn0nrSd4xjjbmc5DbH0wTbRMLW_UNNOuK][2021]]), STOC (e.g. [[https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn][2020]]), or CCS (e.g. [[https://youtube.com/playlist?list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R][2018]], although I cannot find any newer videos of this conference)
+   
+** Playlists
+
+- [[https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2][Mentoring videos from the affiliated event at CRYPTO 2021]]. Great watch to gain some insight and motivation in how top researchers in the field manage their time and resources, how they struggle with several issues, cope with lack of motivation, and other interesting discussions. Surprisingly enlightening. They are mortals just like us!
+- [[https://www.youtube.com/playlist?list=PLiHaXFHjrqYfGA2ltpQH7_pVGTp9cACMn][Computing on Encrypted Data]]. A series of lectures introducing the mathematics behind Multi-Party Computation, taught by Nigel Smart.
+- [[https://www.youtube.com/playlist?list=PLiHaXFHjrqYff0tmsKcY_IAKGO_WPlbYW][Privacy Enhancing Technologies in Practice - Series of Short Workshops]]. Nice series of talks on practical considerations on advanced cryptographic constructions such as FHE, MPC, and ZK proofs. Led by top people in these areas, and aimed at a general audience.
+- [[https://www.youtube.com/playlist?list=PL8Vt-7cSFnw29cLUVqAIuMlg1QJ-szV0K][The 9th BIU Winter School on Cryptography - Zero Knowledge]]. Great resource to learn the basics of ZK proofs, together with several fundamental and advanced results (in general, the other BIU schools are great resources for other topics, see [[https://www.youtube.com/channel/UCQlhkGqNiyEwJO8HN48SLTw/playlists][their playlists]])
+- [[https://youtube.com/playlist?list=PLKVCRT3MRed4XLZ1v08YG4rk9MF-7rHOo][DIMACS/MACS Workshop on Usable, Efficient, and Formally Verified Secure Computation]]. Videos from the 2019 workshop.
+- [[https://www.youtube.com/playlist?list=PLgKuh-lKre139cwM0pjuxMa_YVzMeCiTf][Cryptography Boot Camp - Simons Institute of Science]]. A series of "mini-courses" on different advanced topics in cryptography.
+- [[https://youtube.com/playlist?list=PLqc9MPlwib9nSuyH4oUIwPsyDiZ4bwuEE][Universally Composable Security: A Tutorial]]. A series of videos that help understanding in more detail the UC (universal composability) framework, used across MPC to provide formal proofs.
+- [[https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH][MIT 6.875 (Cryptography), Spring 2018]]. Great Cryptography 101 course.
+- [[https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr][CMU Introduction to Cryptography Course]]. Nice resource to learn the basics of cryptography.
+
+** Videos
+
+- [[https://youtu.be/Ygq9ci0GFhA][Crypto for the People, Invited talk at Crypto 2020 by Seny Kamara]]. One of the most amazing, motivating, enlightening and encouraging talks I've seen. Discusses several topics, including the value of cryptography in our modern society and its impact in the actual "day-to-day" *people*---specially marginalized groups---in contrast to organizations, governments and companies.
+
+* Mathematics
+
+* Other

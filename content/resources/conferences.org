@@ -1,0 +1,93 @@
+---
+title: "Conferences, Journals and Workshops"
+date:
+description: "List of different relevant venues and events"
+draft: true
+---
+
+Below are listed some of the conferences, workshops, and journals, that *I personally* consider relevant. As a disclaimer, this is not meant to imply that there are no other venues that are generally important for our field, and conversely, that all of the venues here are supposed to be significant to other similar researchers.
+
+* Conferences
+
+** Tier 1
+
+- CRYPTO
+- EUROCRYPT
+- Asiacrypt
+- CCS
+- S&P
+- NDSS
+- Usenix
+- TCC
+- ITCS - Innovations in Theoretical Computer Science
+- STOC
+- FOCS
+
+** Tier 2
+
+- PKC
+- EuroSP
+- AsiaCCS
+- ESORICS
+
+** Tier 3
+
+- ProvSec
+- PETS
+- CT-RSA
+- Financial Crypto
+- ACNS
+- CANS
+- Latincrypt
+- Indocrypt
+- Africacrypt
+- PQCrypto
+- ITC (Information Theoretic Cryptography)
+- PODC (ACM Symposium on Principles of Distributed Computing) (*this is probably top tier in distributed computing*)
+
+** Tier 4
+
+- ICALP (International Colloquium on Automata, Languages, and Programming)
+- IMACC (IMA International Conference on Cryptography and Coding)
+- ACISP (Australasian Conference on Information Security and Privacy)
+- ARES (International Conference on Availability, Reliability and Security)
+- ICDCN (International Conference on Distributed Computing and Networking)
+- SAC (Selected Areas in Cryptography)
+- DAC (Design Automation Conference)
+- NBiS  (International Conference on Network-Based Information Systems)
+- SODA (?)
+
+* Workshops
+
+- RWC (Real World Crypto)
+- PPML (CRYPTO and CCS)
+- TPMPC
+- PPAI (Privacy-Preserving Artificial Intelligence)
+
+* Journals
+
+- IEEE Transactions on Dependable and Secure Computing
+- International Journal of Information Security
+- Journal of cryptology
+- IET Information Security
+- IEEE Transactions on Computers
+- IEEE Transactions on Information Theory
+- Journal of Crypto Engineering
+- Designs, Codes and Cryptography
+- IOS Journal of Computer Security
+- Advances in Mathematics of Communications
+- Cryptography and Communications
+- Computers & Security
+- Journal of Groups, Complexity, Cryptology
+- International journal of Applied Cryptography
+
+** Mathematical Cryptography
+
+- Mathematical Cryptology
+- Journal of Mathematical Cryptology
+- Discrete Applied Mathematics
+- SIAM Journal on Discrete Mathematics
+- International Journal of Algebra and Computation
+- Journal of Algebra and its Applications
+- International Journal of Computer Mathematics
+  
