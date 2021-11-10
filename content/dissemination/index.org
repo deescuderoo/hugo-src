@@ -19,4 +19,6 @@ The following are the current posts online:
 - [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-7-23272abd3cd9][Part 7: Honest-Majority MPC with Active Security]]
 - [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-8-363374202e6][Part 8: Two-Party MPC with Active Security]]
 
+* Part I of my PhD Thesis
 
+In Part I of my [[/pdfs/phd_thesis.pdf][PhD Thesis]] I have added an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.

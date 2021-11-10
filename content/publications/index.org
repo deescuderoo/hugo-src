@@ -3,6 +3,20 @@ title: "Publications"
 draft: false
 ---
 
+* Manuscripts
+** 2021
+- Multiparty Computation over Z/2^kZ
+  - PhD thesis, supervised by Prof. Ivan Damgård
+  - [[/pdfs/phd_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cbmkqzbqzxmj][source code]])
+** 2018
+- Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack 
+  - Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[/pdfs/master_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cpbwvkmdgbyg][source code]])
+** 2016
+- Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
+  - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[/pdfs/undergrad_thesis.pdf][Link]] ([[https://www.overleaf.com/read/wfnntwdvzgpr][source code]])
+ 
 * Peer-Reviewed Publications
 
 ** 2021
@@ -14,9 +28,11 @@ draft: false
 - Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
   - *Authors:* Ivan Damgård, Daniel Escudero, Divya Ravi
   - TCC 2021
+  - [[https://eprint.iacr.org/2021/1163][Link]]
 - Improved Threshold Signatures, Proactive Secret Sharing, and Input Certification from LSS Isomorphisms
   - *Authors:* Diego F. Aranha, Anders Dalskov, Daniel Escudero and Claudio Orlandi
   - Latincrypt 2021
+  - [[https://eprint.iacr.org/2020/691][Link]]
 - Honest Majority MPC with Abort with Minimal Online Communication
   - *Authors:* Daniel Escudero and Anders Dalskov
   - Latincrypt 2021
@@ -91,25 +107,9 @@ draft: false
   - PQCrypto 2016
 
 * Non Peer-Reviewed Research Items
+- Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
+  - *Authors:* Ivan Damgård, Daniel Escudero and Antigoni Polychroniadou
+  - [[https://eprint.iacr.org/2021/1376][Link]]
 
-- Improved single-round secure multiplication using regenerating codes
-  - *Authors:* Mark Abspoel, Ronald Cramer, Daniel Escudero, Ivan Damgård and Chaoping Xing
-  - [[https://eprint.iacr.org/2021/253][Link]]
-- Honest Majority MPC with Abort with Minimal Online Communication
-  - *Authors:* Daniel Escudero and Anders Dalskov
-  - [[https://eprint.iacr.org/2020/1556][Link]]
-- LSS Homomorphisms and Applications to Secure Signatures, Proactive Secret Sharing and Input Certification
-  - *Authors:* Diego F. Aranha, Anders P. K. Dalskov, Daniel Escudero, Claudio Orlandi
-  - [[https://eprint.iacr.org/2020/691][Link]]
 
-* Manuscripts
 
-** 2018
-- Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack 
-  - Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
-  - [[https://www.overleaf.com/read/cpbwvkmdgbyg][Link]] (with sourcecode)
-** 2016
-- Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
-  - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
-  - [[https://www.overleaf.com/read/wfnntwdvzgpr][Link]] (with sourcecode)
- 

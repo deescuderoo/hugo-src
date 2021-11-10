@@ -2,7 +2,13 @@
 title: "Talks"
 draft: false
 ---
+
 * 2021
+
+- Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+  - TCC 2021
+  - Hybrid conference, Raleigh, USA
+  - October 2021
 
 - Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
   - USENIX 2021
@@ -11,26 +17,26 @@ draft: false
 
 * 2020
 
-- Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
-  - TPMPC 2020: Theory and Practice of Multi-Party Computation Workshops
-  - Virtual Conference
-  - June 2020
 - PRIMAL: A Framework for Secure Evaluation of Neural Networks
   - OpenMined Privacy Conference
   - Virtual Conference
   - September 2020
-
 - Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
   - SCN 2020: 12th Conference on Security and Cryptography for Networks
   - Virtual Conference
   - September 2020
+
+- Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
+  - TPMPC 2020: Theory and Practice of Multi-Party Computation Workshops
+  - Virtual Conference
+  - June 2020
 
 * 2019
 
 - New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning 
   - TPMPC: Workshop on Theory and Practice of Multi-Party Computation
   - Ramat Gan, Israel.
-  - Jun 17-20, 2019
+  - June 17-20, 2019
 - New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning 
   - 40th IEEE Symposium on Security and Privacy (S&P 2019)
   - San Francisco, CA. United States.
