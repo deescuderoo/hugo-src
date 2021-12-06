@@ -23,4 +23,4 @@ Finally, the cryptographic techniques we use today are just the tip of the icebe
 
 *Contact:* first (at) last (dot) me
 
-An updated version of my CV can be found [[https://www.overleaf.com/read/mzpcpqgjvtnt][here]] (I provide TeX source code in case someone finds it useful for templating, the PDF can be downloaded).
+An updated version of my CV can be found [[/pdfs/Curriculum_Vitae.pdf][here]] (I provide [[https://www.overleaf.com/read/mzpcpqgjvtnt][TeX source code]] in case someone finds it useful for templating).
