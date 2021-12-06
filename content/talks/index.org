@@ -5,9 +5,19 @@ draft: false
 
 * 2021
 
+- Improved single-round secure multiplication using regenerating codes
+  - Asiacrypt 2021
+  - Virtual Conference
+  - December 2021
+
 - Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
   - TCC 2021
-  - Hybrid conference, Raleigh, USA
+  - Hybrid Conference, Raleigh, USA
+  - November 2021
+
+- Honest majority MPC with abort with minimal online communication
+  - Latincrypt 2021
+  - Virtual Conference
   - October 2021
 
 - Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
@@ -41,7 +51,9 @@ draft: false
   - 40th IEEE Symposium on Security and Privacy (S&P 2019)
   - San Francisco, CA. United States.
   - May 20-22, 2019
+    
 * 2018
+
 - SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority
   - CRYPTO 2018: 38th International Cryptology Conference
   - University of California, Santa Barbara (UCSB), USA.
@@ -56,12 +68,16 @@ draft: false
   - PQC: Post-Quantum Cryptography
   - Fort Lauderdale, USA.
   - April 2018.
+
 * 2017
+
 - Secure Multiparty Computation
   - ICAMI: International Conference on Applied Mathematics and Informatics
   - San Andrés, Colombia.
   - November 2017.
+
 * 2016
+
 - Algebraic attacks on MPK cryptosystems
   - Crypto-CO: Summer school on Cryptography
   - Bogotá, Colombia.
