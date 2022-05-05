@@ -21,6 +21,12 @@ draft: false
 
 ** 2021
 
+- Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+  - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
+  - CCS 2022
+
+** 2021
+
 - Improved Single-Round Secure Multiplication Using Regenerating Codes
   - *Authors:* Mark Abspoel, Ronald Cramer, Daniel Escudero, Ivan Damgård and Chaoping Xing
   - Asiacrypt 2021
