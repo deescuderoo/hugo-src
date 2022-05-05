@@ -6,7 +6,6 @@ draft: false
 
 * A Crash Course on MPC
 I am working on a series of posts explaining MPC from the ground up.
-These can be found in our blog, [[https://medium.com/applied-mpc][The Sugar Beet: Applied MPC]].
 
 The following are the current posts online:
 - [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184][Part 0, Introduction]]
@@ -19,6 +18,12 @@ The following are the current posts online:
 - [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-7-23272abd3cd9][Part 7: Honest-Majority MPC with Active Security]]
 - [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-8-363374202e6][Part 8: Two-Party MPC with Active Security]]
 
-* Part I of my PhD Thesis
+* An Introduction to Secret-Sharing-Based Secure Multiparty Computation
 
-In Part I of my [[/pdfs/phd_thesis.pdf][PhD Thesis]] I have added an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.
+I'm in the process of writing an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.
+This text serves as a general guide to this topic, focusing more on practical aspects of the techniques and constructions rather than their theoretical grounds. It is intended to serve as an introductory reference text for readers interested in the area, assuming essentially no background in these topics.
+
+This work in progress currently includes an introduction to several core concepts in secure multiparty computation, an overview of simulation-based security, and detailed constructions for honest and two-thirds honest majority MPC, and also dishonest majority in the preprocessing model.
+
+- [[https://eprint.iacr.org/2022/062.pdf][Link]]
+
