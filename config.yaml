@@ -40,7 +40,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; Template from [Yihui Xie](https://yihui.org) 2017 -- 2020"
+  footer: "Template from Yihui Xie (https://yihui.org) 2017 -- 2020"
   show-date: 0
 
 markup:

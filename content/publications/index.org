@@ -19,11 +19,15 @@ draft: false
  
 * Peer-Reviewed Publications
 
-** 2021
+** 2022
 
 - Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
   - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
   - CCS 2022
+
+- More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings 
+  - *Authors:* Daniel Escudero, Chaoping Xing, Chen Yuan 
+  - CRYPTO 2022
 
 ** 2021
 
