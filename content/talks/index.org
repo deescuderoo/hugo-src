@@ -3,6 +3,17 @@ title: "Talks"
 draft: false
 ---
 
+* 2022
+- More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
+  - CRYPTO 2022
+  - Santa Barbara, USA
+  - August 2022
+
+- Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority (Invited Talk)
+  - International Conference on Coding and Cryptography (ICCC) 2022
+  - Virtual Event
+  - May 2022
+
 * 2021
 
 - Improved single-round secure multiplication using regenerating codes

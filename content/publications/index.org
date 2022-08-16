@@ -25,6 +25,10 @@ draft: false
   - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
   - CCS 2022
 
+- TurboPack: Honest Majority MPC with Constant Online Communication
+  - *Authors:* Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song
+  - CCS 2022
+
 - More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings 
   - *Authors:* Daniel Escudero, Chaoping Xing, Chen Yuan 
   - CRYPTO 2022
