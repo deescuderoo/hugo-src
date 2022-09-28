@@ -3,23 +3,14 @@ title: "Publications"
 draft: false
 ---
 
-* Manuscripts
-** 2021
-- Multiparty Computation over Z/2^kZ
-  - PhD thesis, supervised by Prof. Ivan Damgård
-  - [[/pdfs/phd_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cbmkqzbqzxmj][source code]])
-** 2018
-- Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack 
-  - Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
-  - [[/pdfs/master_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cpbwvkmdgbyg][source code]])
-** 2016
-- Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
-  - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
-  - [[/pdfs/undergrad_thesis.pdf][Link]] ([[https://www.overleaf.com/read/wfnntwdvzgpr][source code]])
- 
+
 * Peer-Reviewed Publications
 
 ** 2022
+
+- Vector Commitments over Rings and Compressed Sigma-Protocols
+  - *Authors:* Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero
+  - TCC 2022
 
 - Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
   - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
@@ -119,6 +110,20 @@ draft: false
 - Efficient ZHFE Key Generation 
   - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Jaiberth Porras- Barrera, and Javier A. Verbel.
   - PQCrypto 2016
+
+* Theses
+** PhD (2021)
+- Multiparty Computation over Z/2^kZ
+  - PhD thesis, supervised by Prof. Ivan Damgård
+  - [[/pdfs/phd_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cbmkqzbqzxmj][source code]])
+** Master (2018)
+- Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack 
+  - Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[/pdfs/master_thesis.pdf][Link]] ([[https://www.overleaf.com/read/cpbwvkmdgbyg][source code]])
+** Undergraduate (2016)
+- Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
+  - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  - [[/pdfs/undergrad_thesis.pdf][Link]] ([[https://www.overleaf.com/read/wfnntwdvzgpr][source code]])
 
 * Non Peer-Reviewed Research Items
 - Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
