@@ -4,6 +4,11 @@ draft: false
 ---
 
 * 2022
+- Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+  - CCS 2022
+  - Los Angeles, USA
+  - November 2022
+
 - More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
   - CRYPTO 2022
   - Santa Barbara, USA

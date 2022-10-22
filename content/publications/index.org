@@ -11,18 +11,22 @@ draft: false
 - Vector Commitments over Rings and Compressed Sigma-Protocols
   - *Authors:* Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero
   - TCC 2022
+  - [[https://eprint.iacr.org/2022/181][Link]]
 
 - Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
   - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
   - CCS 2022
+  - [[https://eprint.iacr.org/2022/623][Link]]
 
 - TurboPack: Honest Majority MPC with Constant Online Communication
   - *Authors:* Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song
   - CCS 2022
+  - [[https://eprint.iacr.org/2022/1316][Link]]
 
 - More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings 
   - *Authors:* Daniel Escudero, Chaoping Xing, Chen Yuan 
   - CRYPTO 2022
+  - [[https://eprint.iacr.org/2022/815][Link]]
 
 ** 2021
 
