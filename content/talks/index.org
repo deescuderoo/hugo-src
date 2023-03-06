@@ -4,7 +4,7 @@ draft: false
 ---
 
 * 2022
-- Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+- SuperPack: Dishonest Majority MPC with Constant Online Communication
   - CCS 2022
   - Los Angeles, USA
   - November 2022

@@ -6,6 +6,13 @@ draft: false
 
 * Peer-Reviewed Publications
 
+** 2023
+
+- SuperPack: Dishonest Majority MPC with Constant Online Communication
+  - *Authors:* Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
+  - Eurocrypt 2022
+  - [[https://eprint.iacr.org/2023/307][Link]]
+
 ** 2022
 
 - Vector Commitments over Rings and Compressed Sigma-Protocols
@@ -14,7 +21,7 @@ draft: false
   - [[https://eprint.iacr.org/2022/181][Link]]
 
 - Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
-  - *Authors:* Anders Dalskov, Ariel Nof and Daniel Escudero
+  - *Authors:* Anders Dalskov, Daniel Escudero and Ariel Nof
   - CCS 2022
   - [[https://eprint.iacr.org/2022/623][Link]]
 
@@ -43,7 +50,7 @@ draft: false
   - Latincrypt 2021
   - [[https://eprint.iacr.org/2020/691][Link]]
 - Honest Majority MPC with Abort with Minimal Online Communication
-  - *Authors:* Daniel Escudero and Anders Dalskov
+  - *Authors:* Anders Dalskov and Daniel Escudero
   - Latincrypt 2021
   - [[https://eprint.iacr.org/2020/1556][Link]]
 - Efficient Information-Theoretic Multi-Party Computation over Non-Commutative Rings
@@ -134,5 +141,8 @@ draft: false
   - *Authors:* Ivan Damgård, Daniel Escudero and Antigoni Polychroniadou
   - [[https://eprint.iacr.org/2021/1376][Link]]
 
-
+- Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
+  - *Authors:* Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan
+  - [[https://eprint.iacr.org/2023/173][Link]]
+  
 
