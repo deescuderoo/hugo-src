@@ -3,7 +3,14 @@ title: "Teaching"
 draft: false
 ---
 
-I've been a teaching assistant in the following courses.
+* Curso de criptografía - UNAL (2023)
+During the first semester of 2023, I taught a remote master-level course on *Multiparty Computation, Homomorphic Encryption and Zero-Knowledge Proofs*, at /Universidad Nacional de Colombia/, my undergrad university.
+
+* A Crash Course on MPC - Shanghai Jiao Tong University (2021)
+
+* Teaching Assistant
+
+During the course of my PhD, I had the chance of being a teaching assistant for the following courses.
 
 - Machine Learning (Aarhus University, fall 2020)
 - Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020)

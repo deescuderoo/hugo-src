@@ -13,6 +13,11 @@ draft: false
   - Eurocrypt 2022
   - [[https://eprint.iacr.org/2023/307][Link]]
 
+- Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
+  - *Authors:* Ivan Damgård, Daniel Escudero and Antigoni Polychroniadou
+  - Information-Theoretic Cryptography Conference (ITC) 2022
+  - [[https://eprint.iacr.org/2021/1376][Link]]
+
 ** 2022
 
 - Vector Commitments over Rings and Compressed Sigma-Protocols
@@ -137,9 +142,6 @@ draft: false
   - [[/pdfs/undergrad_thesis.pdf][Link]] ([[https://www.overleaf.com/read/wfnntwdvzgpr][source code]])
 
 * Non Peer-Reviewed Research Items
-- Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
-  - *Authors:* Ivan Damgård, Daniel Escudero and Antigoni Polychroniadou
-  - [[https://eprint.iacr.org/2021/1376][Link]]
 
 - Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
   - *Authors:* Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan
