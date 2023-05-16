@@ -27,3 +27,9 @@ This work in progress currently includes an introduction to several core concept
 
 - [[https://eprint.iacr.org/2022/062.pdf][Link]]
 
+* (In Spanish) A Course on MPC, FHE and ZKP
+
+A master-level course I taught in Universidad Nacional de Colombia, Sede Medellín, on Secure Multiparty Computation, Fully Homomorphic Encryption, and Zero-Knowledge Proofs.
+
+- Videos: https://youtube.com/playlist?list=PLeld-Hlf3EnrwZnvOT4IH5-2a-6HRaTG0
+

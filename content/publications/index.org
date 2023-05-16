@@ -10,12 +10,17 @@ draft: false
 
 - SuperPack: Dishonest Majority MPC with Constant Online Communication
   - *Authors:* Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
-  - Eurocrypt 2022
+  - Eurocrypt 2023
   - [[https://eprint.iacr.org/2023/307][Link]]
 
 - Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
   - *Authors:* Ivan Damgård, Daniel Escudero and Antigoni Polychroniadou
-  - Information-Theoretic Cryptography Conference (ITC) 2022
+  - Information-Theoretic Cryptography Conference (ITC) 2023
+  - [[https://eprint.iacr.org/2021/1376][Link]]
+
+- On Linear Communication Complexity for (Maximally) Fluid MPC
+  - *Authors:* Alexander Bienstock, Daniel Escudero and Antigoni Polychroniadou
+  - CRYPTO 2023
   - [[https://eprint.iacr.org/2021/1376][Link]]
 
 ** 2022
