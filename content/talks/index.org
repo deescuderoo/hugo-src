@@ -21,7 +21,12 @@ draft: false
 
 
 * 2022
-- SuperPack: Dishonest Majority MPC with Constant Online Communication
+- TurboPack: Honest Majority MPC with Constant Online Communication
+  - NYU Crypto seminar
+  - New York City, USA
+  - November 2022
+
+- TurboPack: Honest Majority MPC with Constant Online Communication
   - CCS 2022
   - Los Angeles, USA
   - November 2022
