@@ -8,6 +8,16 @@ draft: false
 
 ** 2023
 
+- Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
+  - *Authors:* Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan
+  - Asiacrypt 2023
+  - [[https://eprint.iacr.org/2023/173][Link]]
+
+- On Fully-Secure Honest Majority MPC without n^2 Round Overhead
+  - *Authors:* Daniel Escudero and Serge Fehr
+  - Latincrypt 2023
+  - [[https://eprint.iacr.org/2023/1204][Link]]
+
 - SuperPack: Dishonest Majority MPC with Constant Online Communication
   - *Authors:* Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
   - Eurocrypt 2023
@@ -21,7 +31,7 @@ draft: false
 - On Linear Communication Complexity for (Maximally) Fluid MPC
   - *Authors:* Alexander Bienstock, Daniel Escudero and Antigoni Polychroniadou
   - CRYPTO 2023
-  - [[https://eprint.iacr.org/2021/1376][Link]]
+  - [[https://eprint.iacr.org/2023/839][Link]]
 
 ** 2022
 
@@ -148,8 +158,6 @@ draft: false
 
 * Non Peer-Reviewed Research Items
 
-- Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
-  - *Authors:* Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan
-  - [[https://eprint.iacr.org/2023/173][Link]]
+None at the moment
   
 

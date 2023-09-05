@@ -3,6 +3,23 @@ title: "Talks"
 draft: false
 ---
 
+* 2023
+- On Fully-Secure Honest Majority MPC without n^2 Round Overhead
+  - Latincrypt 2023
+  - Quito, Ecuador
+  - October 2023
+
+- Panelist at [[https://ghtcworkshop.tii.ae/2023/][Crypto meets AI - GHTC]]
+  - Affiliated event at CRYPTO'23
+  - Santa Barbara (CA), USA
+  - August 2023
+
+- Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks
+  - ITC 2023
+  - Aarhus, Denmark
+  - June 2023
+
+
 * 2022
 - SuperPack: Dishonest Majority MPC with Constant Online Communication
   - CCS 2022
