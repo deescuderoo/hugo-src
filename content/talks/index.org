@@ -4,10 +4,20 @@ draft: false
 ---
 
 * 2023
+- A Crash Course on Secure Multiparty Computation
+  - ASCrypto, official IACR Cryptology school co-located with Latincrypt 2023
+  - Quito, Ecuador
+  - October 2023
+
 - On Fully-Secure Honest Majority MPC without n^2 Round Overhead
   - Latincrypt 2023
   - Quito, Ecuador
   - October 2023
+
+- On Fully-Secure Honest Majority MPC without n^2 Round Overhead (Invited Talk)
+  - International Conference on Coding and Cryptography (ICCC) 2023
+  - Virtual Event
+  - September 2023
 
 - Panelist at [[https://ghtcworkshop.tii.ae/2023/][Crypto meets AI - GHTC]]
   - Affiliated event at CRYPTO'23
