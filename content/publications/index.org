@@ -6,6 +6,13 @@ draft: false
 
 * Peer-Reviewed Publications
 
+** 2024
+
+- On Information-Theoretic Secure Multiparty Computation with Local Repairability
+  - *Authors:* Daniel Escudero, Ivan Tjuawinata and Chaoping Xing
+  - PKC 2024
+  - [[https://eprint.iacr.org/2024/391][Link]]
+
 ** 2023
 
 - Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
@@ -158,6 +165,8 @@ draft: false
 
 * Non Peer-Reviewed Research Items
 
-None at the moment
-  
+# None at the moment
 
+- Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
+  - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
+  - [[https://eprint.iacr.org/2024/370][Link]]
