@@ -3,6 +3,7 @@ title: "Publications"
 draft: false
 ---
 
+Unless noted otherwise, publications are in *alphabetical order*.
 
 * Peer-Reviewed Publications
 
@@ -11,6 +12,15 @@ draft: false
 - On Information-Theoretic Secure Multiparty Computation with Local Repairability
   - *Authors:* Daniel Escudero, Ivan Tjuawinata and Chaoping Xing
   - PKC 2024
+  - [[https://eprint.iacr.org/2024/391][Link]]
+
+- Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions
+  - *Authors:* Anders Dalskov, Daniel Escudero and Ariel Nof
+  - CRYPTO 2024
+
+- Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
+  - *Authors:* Daniel Escudero, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
+  - CCS 2024
   - [[https://eprint.iacr.org/2024/391][Link]]
 
 ** 2023
@@ -133,19 +143,19 @@ draft: false
 
 ** 2018
 
-- SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
+3. SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
   - *Authors:* Ronald Cramer, Ivan Damgård, Daniel Escudero, Peter Scholl, Chaoping Xing.
   - CRYPTO 2018
   - [[https://eprint.iacr.org/2018/482][Link]]
 
-- Rank Analysis of Cubic Multivariate Cryptosystems 
+2. Rank Analysis of Cubic Multivariate Cryptosystems 
   - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Karan Khathuria, and Javier A. Verbel.
   - PQCrypto 2018
   - [[https://eprint.iacr.org/2018/110][Link]]
     
 ** 2016
 
-- Efficient ZHFE Key Generation 
+1. Efficient ZHFE Key Generation 
   - *Authors:* John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Jaiberth Porras- Barrera, and Javier A. Verbel.
   - PQCrypto 2016
 
