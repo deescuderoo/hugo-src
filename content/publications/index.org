@@ -4,6 +4,17 @@ draft: false
 ---
 
 Unless noted otherwise, publications are in *alphabetical order*.
+* Non Peer-Reviewed Research Items (Under Submission)
+
+# None at the moment
+- Sublinear Distributed Product Checks on Replicated Secret-Shared Data over $\mathbb{Z}_{2^k}$ without Ring Extensions
+  - *Authors:* Yun Li, Daniel Escudero, Yufei Duan, Zhicong Huang, Cheng Hong, Chao Zhang and Yifan Song
+  - [[https://eprint.iacr.org/2024/700][Link]]
+
+- Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
+  - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
+  - [[https://eprint.iacr.org/2024/370][Link]]
+
 
 * Peer-Reviewed Publications
 
@@ -21,7 +32,6 @@ Unless noted otherwise, publications are in *alphabetical order*.
 - Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
   - *Authors:* Daniel Escudero, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
   - CCS 2024
-  - [[https://eprint.iacr.org/2024/391][Link]]
 
 ** 2023
 
@@ -172,11 +182,3 @@ Unless noted otherwise, publications are in *alphabetical order*.
 - Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems 
   - Bachelor's thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
   - [[/pdfs/undergrad_thesis.pdf][Link]] ([[https://www.overleaf.com/read/wfnntwdvzgpr][source code]])
-
-* Non Peer-Reviewed Research Items
-
-# None at the moment
-
-- Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
-  - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
-  - [[https://eprint.iacr.org/2024/370][Link]]
