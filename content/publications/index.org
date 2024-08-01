@@ -7,10 +7,6 @@ Unless noted otherwise, publications are in *alphabetical order*.
 * Non Peer-Reviewed Research Items (Under Submission)
 
 # None at the moment
-- Sublinear Distributed Product Checks on Replicated Secret-Shared Data over $\mathbb{Z}_{2^k}$ without Ring Extensions
-  - *Authors:* Yun Li, Daniel Escudero, Yufei Duan, Zhicong Huang, Cheng Hong, Chao Zhang and Yifan Song
-  - [[https://eprint.iacr.org/2024/700][Link]]
-
 - Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
   - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
   - [[https://eprint.iacr.org/2024/370][Link]]
@@ -28,10 +24,17 @@ Unless noted otherwise, publications are in *alphabetical order*.
 - Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions
   - *Authors:* Anders Dalskov, Daniel Escudero and Ariel Nof
   - CRYPTO 2024
+  - [[https://eprint.iacr.org/2024/837][Link]]
 
-- Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
+- Dishonest Majority Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
   - *Authors:* Daniel Escudero, Antigoni Polychroniadou, Yifan Song and Chenkai Weng
   - CCS 2024
+  - [[https://eprint.iacr.org/2024/997][Link]]
+
+- Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z_2^k without Ring Extensions
+  - *Authors:* Yun Li, Daniel Escudero, Yufei Duan, Zhicong Huang, Cheng Hong, Chao Zhang and Yifan Song
+  - CCS 2024
+  - [[https://eprint.iacr.org/2024/700][Link]]
 
 ** 2023
 
