@@ -3,7 +3,38 @@ title: "Talks"
 draft: false
 ---
 
+* 2024
+- Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k without Ring Extensions
+  - CCS 2024
+  - Salt Lake City, USA
+  - October 2024
+
+- Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k without Ring Extensions
+  - PPML workshop (affiliated event at CRYPTO 2024)
+  - Santa Barbara, USA
+  - August 2024
+
+- Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions
+  - CRYPTO 2024
+  - Santa Barbara, USA
+  - August 2024
+
+- Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
+  - Security seminar, University of Pennsylvania
+  - Philadelphia, USA
+  - April 2024
+
+- TurboPack: Honest Majority MPC with Constant Online Communication
+  - TII seminar
+  - Abu Dhabi, UAE
+  - January 2024
+
 * 2023
+- TurboPack: Honest Majority MPC with Constant Online Communication
+  - Microsoft Research
+  - Bangalore, India
+  - December 2023
+
 - A Crash Course on Secure Multiparty Computation
   - ASCrypto, official IACR Cryptology school co-located with Latincrypt 2023
   - Quito, Ecuador
