@@ -6,15 +6,20 @@ draft: false
 Unless noted otherwise, publications are in *alphabetical order*.
 * Non Peer-Reviewed Research Items (Under Submission)
 
-# None at the moment
-- Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
-  - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
-  - [[https://eprint.iacr.org/2024/370][Link]]
-
+None at the moment
 
 * Peer-Reviewed Publications
 
 ** 2024
+
+- Honest Majority GOD MPC with O(depth(C)) Rounds and Low Online Communication
+  - *Authors:* Amit Agarwal, Alexander Bienstock, Ivan Damgård and Daniel Escudero
+  - Asiacrypt 2024
+
+- Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
+  - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
+  - Asiacrypt 2024
+  - [[https://eprint.iacr.org/2024/370][Link]]
 
 - On Information-Theoretic Secure Multiparty Computation with Local Repairability
   - *Authors:* Daniel Escudero, Ivan Tjuawinata and Chaoping Xing

@@ -4,6 +4,11 @@ draft: false
 ---
 
 * 2024
+- Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers
+  - CCS 2024
+  - Salt Lake City, USA
+  - October 2024
+
 - Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k without Ring Extensions
   - CCS 2024
   - Salt Lake City, USA
