@@ -15,6 +15,7 @@ None at the moment
 - Honest Majority GOD MPC with O(depth(C)) Rounds and Low Online Communication
   - *Authors:* Amit Agarwal, Alexander Bienstock, Ivan Damgård and Daniel Escudero
   - Asiacrypt 2024
+  - [[https://eprint.iacr.org/2024/1479][Link]]
 
 - Perfectly-Secure Multiparty Computation with Linear Communication Complexity over Any Modulus
   - *Authors:* Daniel Escudero, Yifan Song and Wenhao Wang
