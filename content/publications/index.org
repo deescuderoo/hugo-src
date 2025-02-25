@@ -10,7 +10,21 @@ None at the moment
 
 * Peer-Reviewed Publications
 
+** 2025
+- Share the MAYO: thresholdizing MAYO
+  - *Authors:* Sofia Celi, Daniel Escudero and Guilhem Niot
+  - PQ Crypto 2025
+  - [[https://eprint.iacr.org/2024/1960][Link]]
+
+- Perfectly Secure Fluid MPC with Abort and Linear Communication Complexity
+  - *Authors:* Alexander Bienstock, Daniel Escudero and Antigoni Polychroniadou
+  - Communications in Cryptology
+
 ** 2024
+
+- Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption
+  - *Authors:* Leo de Castro, Antigoni Polychroniadou and Daniel Escudero
+  - Neurips Safe Generative AI Workshop 2024
 
 - Honest Majority GOD MPC with O(depth(C)) Rounds and Low Online Communication
   - *Authors:* Amit Agarwal, Alexander Bienstock, Ivan Damgård and Daniel Escudero
