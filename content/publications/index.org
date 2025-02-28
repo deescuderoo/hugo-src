@@ -19,6 +19,7 @@ None at the moment
 - Perfectly Secure Fluid MPC with Abort and Linear Communication Complexity
   - *Authors:* Alexander Bienstock, Daniel Escudero and Antigoni Polychroniadou
   - Communications in Cryptology
+  - [[https://eprint.iacr.org/2024/2071][Link]]
 
 ** 2024
 

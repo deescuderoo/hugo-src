@@ -3,7 +3,17 @@ title: "Talks"
 draft: false
 ---
 
+* 2025
+- L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
+  - JPMC AlgoCRYPT Seminars
+  - New York, USA
+  - January 2025
+
 * 2024
+- L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
+  - Kolkata Cryptoday
+  - Kolkata, India
+  - December 2024
 - Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k without Ring Extensions
   - PPML workshop (affiliated event at CRYPTO 2024)
   - Santa Barbara, USA
