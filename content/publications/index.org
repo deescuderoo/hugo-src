@@ -6,6 +6,10 @@ draft: false
 Unless noted otherwise, publications are in *alphabetical order*.
 * Non Peer-Reviewed Research Items (Under Submission)
 
+- Efficient, Scalable Threshold ML-DSA Signatures: An MPC Approach
+  - *Authors:* Alexander Bienstock, Leo de Castro, Daniel Escudero, Antigoni Polychroniadou and Akira Takahashi
+  - [[https://eprint.iacr.org/2025/1163][Link]]
+
 - Covert Attacks on Machine Learning Training in Passively Secure MPC
   - *Authors:* Matthew Jagielski, Rahul Rachuri, Daniel Escudero and Peter Scholl
   - [[https://eprint.iacr.org/2025/906][Link]]
