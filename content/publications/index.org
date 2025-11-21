@@ -19,6 +19,14 @@ Unless noted otherwise, publications are in *alphabetical order*.
 * Peer-Reviewed Publications
 
 ** 2025
+- Towards Scalable YOSO MPC via Packed Secret-Sharing
+  - *Authors:* Daniel Escudero, Elisaweta Masserova and Antigoni Polychroniadou
+  - Asiacrypt 2025
+
+- Privacy-Preserving Training of Support Vector Machines via Secure Multiparty Computation
+  - *Authors:* Daniel Cabarcas Jaramillo, Hernan Dario Vanegas Madrigal, Daniel Escudero and Fernando Alberto Morales Jauregui
+  - Transactions on Privacy and Security 2025
+    
 - EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption
   - *Authors:* Leo de Castro, Daniel Escudero, Adya Agrawal, Antigoni Polychroniadou and Manuela Veloso
   - ICML 2025
