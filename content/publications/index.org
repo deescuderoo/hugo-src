@@ -6,30 +6,36 @@ draft: false
 Unless noted otherwise, publications are in *alphabetical order*.
 * Non Peer-Reviewed Research Items (Under Submission)
 
-- Efficient, Scalable Threshold ML-DSA Signatures: An MPC Approach
-  - *Authors:* Alexander Bienstock, Leo de Castro, Daniel Escudero, Antigoni Polychroniadou and Akira Takahashi
-  - [[https://eprint.iacr.org/2025/1163][Link]]
-
-- Covert Attacks on Machine Learning Training in Passively Secure MPC
-  - *Authors:* Matthew Jagielski, Rahul Rachuri, Daniel Escudero and Peter Scholl
-  - [[https://eprint.iacr.org/2025/906][Link]]
-
-# None at the moment
+None at the moment
 
 * Peer-Reviewed Publications
+
+** 2026
+- Covert Attacks on Machine Learning Training in Passively Secure MPC
+  - *Authors:* Daniel Escudero, Matthew Jagielski, Rahul Rachuri and Peter Scholl
+  - Euro S&P 2026
+  - [[https://eprint.iacr.org/2025/906][Link]]
+
+- Quorus: Efficient, Scalable Threshold ML-DSA Signatures from MPC
+  - *Authors:* Alexander Bienstock, Leo de Castro, Daniel Escudero, Antigoni Polychroniadou and Akira Takahashi
+  - USENIX 2026
+  - [[https://eprint.iacr.org/2025/1163][Link]]
 
 ** 2025
 - Towards Scalable YOSO MPC via Packed Secret-Sharing
   - *Authors:* Daniel Escudero, Elisaweta Masserova and Antigoni Polychroniadou
   - Asiacrypt 2025
+  - [[https://eprint.iacr.org/2025/635][Link]]
 
 - Privacy-Preserving Training of Support Vector Machines via Secure Multiparty Computation
   - *Authors:* Daniel Cabarcas Jaramillo, Hernan Dario Vanegas Madrigal, Daniel Escudero and Fernando Alberto Morales Jauregui
   - Transactions on Privacy and Security 2025
+  - [[https://dl.acm.org/doi/10.1145/3749373][Link]]
     
 - EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption
   - *Authors:* Leo de Castro, Daniel Escudero, Adya Agrawal, Antigoni Polychroniadou and Manuela Veloso
   - ICML 2025
+  - [[https://openreview.net/forum?id=PGNff6H1TV][Link]]
 
 - Share the MAYO: thresholdizing MAYO
   - *Authors:* Sofia Celi, Daniel Escudero and Guilhem Niot
