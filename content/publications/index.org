@@ -13,13 +13,18 @@ None at the moment
 ** 2026
 - Covert Attacks on Machine Learning Training in Passively Secure MPC
   - *Authors:* Daniel Escudero, Matthew Jagielski, Rahul Rachuri and Peter Scholl
-  - Euro S&P 2026
+  - EuroS&P 2026
   - [[https://eprint.iacr.org/2025/906][Link]]
 
 - Quorus: Efficient, Scalable Threshold ML-DSA Signatures from MPC
   - *Authors:* Alexander Bienstock, Leo de Castro, Daniel Escudero, Antigoni Polychroniadou and Akira Takahashi
   - USENIX 2026
   - [[https://eprint.iacr.org/2025/1163][Link]]
+
+- L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
+  - *Authors:* Daniel Escudero, Yashvanth Kondi, Yifan Song and Hernán Vanegas
+  - Financial Cryptography 2026
+  - [[https://eprint.iacr.org/2026/061][Link]]
 
 ** 2025
 - Towards Scalable YOSO MPC via Packed Secret-Sharing
