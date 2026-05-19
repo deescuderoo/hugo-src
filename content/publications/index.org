@@ -4,9 +4,17 @@ draft: false
 ---
 
 Unless noted otherwise, publications are in *alphabetical order*.
+
 * Non Peer-Reviewed Research Items (Under Submission)
 
-None at the moment
+# None at the moment
+- Merces: Confidential Token Transfers via MPC and CoSNARKs
+  - *Authors:* Daniel Escudero, Florian Lugstein, Christian Rechberger, Verena Schröppel and Roman Walch
+  - [[https://eprint.iacr.org/2026/850][Link]]
+
+- Scalable Secure Biometric Authentication without Auxiliary Identifiers
+  - *Authors:* Alexander Bienstock, Daniel Escudero, Antigoni Polychroniadou, Zhen Zeng, Pranav Bhat, Ashok Singal, Prashant Sharma and Manuela Veloso
+  - [[https://eprint.iacr.org/2026/825][Link]]
 
 * Peer-Reviewed Publications
 
@@ -26,7 +34,27 @@ None at the moment
   - Financial Cryptography 2026
   - [[https://eprint.iacr.org/2026/061][Link]]
 
+- Thresholdizing Standardized FALCON Signatures
+  - *Authors:* Radhika Garg, Daniel Escudero, Antigoni Polychroniadou, Akira Takahahi and Xiao Wang
+  - CCS 2026
+
+- Introduction to secret-sharing based secure multi-party computation in health data
+  - *Authors:* Steven Kerr and Daniel Escudero
+  - BMJ Open 2026
+
+- Actively Secure MPC with O(|C|) Computation and Communication via CRT
+  - *Authors:* Alexander Bienstock, Daniel Escudero and Antigoni Polychroniadou
+  - CRYPTO 2026
+
+
+
+
 ** 2025
+- Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
+  - *Authors:* Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan
+  - IEEE Transactions on Information Theory 2025 (full version of Asiacrypt 2023)
+  - [[https://eprint.iacr.org/2023/173][Link]]
+
 - Towards Scalable YOSO MPC via Packed Secret-Sharing
   - *Authors:* Daniel Escudero, Elisaweta Masserova and Antigoni Polychroniadou
   - Asiacrypt 2025

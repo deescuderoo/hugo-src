@@ -14,10 +14,16 @@ draft: false
   - Taipei, Taiwan
   - April 2026
 
-- Edabits Generation with Quasi-Linear Communication Complexity
+- Merces: Confidential Token Transfers via MPC and CoSNARKs
   - Bangalore Cryptoday
   - Bangalore, India
   - April 2026
+
+- Quorus: Efficient, Scalable Threshold ML-DSA from MPC
+  - Cryptography Seminar at École Polytechnique
+  - Paris, France
+  - May 2026
+
 
 * 2025
 - L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
