@@ -8,10 +8,14 @@ Unless noted otherwise, publications are in **alphabetical order**.
 # Non Peer-Reviewed Research Items (Under Submission)
 
 <!-- None at the moment -->
-- Merces: Confidential Token Transfers via MPC and CoSNARKs
-  - **Authors:** Daniel Escudero, Florian Lugstein, Christian Rechberger, Verena Schröppel and Roman Walch
-  - [Link](https://eprint.iacr.org/2026/850)
+- Edabits Generation with Quasi-Linear Communication Complexity
+  - **Authors:** Alexander Bienstock, Daniel Escudero, Qijia Fan, Fengrun Liu and Yifan Song
+  - [Link](https://eprint.iacr.org/2026/2482)
 
+- Kettle: Short Post-Quantum Threshold Signatures from the HAWK Signature Scheme
+  - **Authors:** Calvin Abou Haidar, Daniel Escudero, Thomas Espitau, Clément Hoffmann, Kaoru Takemure, Mehdi Tibouchi and Hernán Darío Vanegas Madrigal
+  - [Link](https://eprint.iacr.org/2026/2288)
+  
 - Scalable Secure Biometric Authentication without Auxiliary Identifiers
   - **Authors:** Alexander Bienstock, Daniel Escudero, Antigoni Polychroniadou, Zhen Zeng, Pranav Bhat, Ashok Singal, Prashant Sharma and Manuela Veloso
   - [Link](https://eprint.iacr.org/2026/825)
@@ -19,6 +23,11 @@ Unless noted otherwise, publications are in **alphabetical order**.
 # Peer-Reviewed Publications
 
 ## 2026
+- Merces: Confidential Token Transfers via MPC and CoSNARKs
+  - **Authors:** Daniel Escudero, Florian Lugstein, Christian Rechberger, Verena Schröppel and Roman Walch
+  - CANS 2026
+  - [Link](https://eprint.iacr.org/2026/850)
+
 - Covert Attacks on Machine Learning Training in Passively Secure MPC
   - **Authors:** Daniel Escudero, Matthew Jagielski, Rahul Rachuri and Peter Scholl
   - EuroS&P 2026
