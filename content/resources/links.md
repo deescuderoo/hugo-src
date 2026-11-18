@@ -23,15 +23,15 @@ Medium...
 - https://simons.berkeley.edu/workshops/schedule/10565
 - https://www.mikedane.com/static-site-generators/hugo/
 
-* Blogs and Forums
+# Blogs and Forums
 
-* Cryptography
-- [[https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf][The Moral Character of Cryptographic Work - Phillip Rogaway]]. Interesting critique on the value and impact of cryptographic /research/ on our real world, emphasizing its significance (or rather, the lack of it) in our society. Great read to consider points where we can improve as researchers and social beings.
-- [[http://anotherlook.ca/][Another Look]]....
+# Cryptography
+- [The Moral Character of Cryptographic Work - Phillip Rogaway](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf). Interesting critique on the value and impact of cryptographic *research* on our real world, emphasizing its significance (or rather, the lack of it) in our society. Great read to consider points where we can improve as researchers and social beings.
+- [Another Look](http://anotherlook.ca/)....
 
-* Interesting Linux Tools and Resources
+# Interesting Linux Tools and Resources
 
-** Pentesting
+## Pentesting
 - aircrack-ng
 - ...TODO OSINT
 - zenmap
@@ -40,12 +40,12 @@ Medium...
 - https://overthewire.org/wargames/
 - Cryptopals: https://cryptopals.com/sets/1
 
-** Linux
+## Linux
 - Steps in context switching https://stackoverflow.com/questions/7439608/steps-in-context-switching
 - Processes (and other internals) in Linux: https://0xax.gitbooks.io/linux-insides/
 - https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/ https://linuxhint.com/understanding_boot_process_bios_uefi/
 
-** Linux Executables
+## Linux Executables
 Let's say we write a file in C, called `hello.c`. The `gcc` compiler goes through several stages to be able to generate the final `hello` executable. These stages are preprocessing, compilation, assembling and linking.
 
 The preprocessing simply makes the source files self-contained by 'pasting' all loaded libraries, expanding macros and so on. The assembler transforms this into assembly language (use `gcc -S *` to stop at this stage). The assembler turns this into object (or machine) code (use `gcc -c *` for this step).
@@ -56,7 +56,7 @@ A nice overview of these steps and the resulting ELF format: https://www.tenouk.
 
 Learned a lot from [here](https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1c.html).
 
-I think the linking is the most exiting step in the chain. First a bit of information on executable formats, focusing on ELF (Executable and Linkable Format). Such file is made up of so-called *sections*, and these can be read using `readelf *`. Common sections include: 
+I think the linking is the most exiting step in the chain. First a bit of information on executable formats, focusing on ELF (Executable and Linkable Format). Such file is made up of so-called **sections**, and these can be read using `readelf *`. Common sections include: 
 - `.text`: The code
 - `.data`: Initialized global and static variables
 - `.rdata`: Read-only constants
@@ -64,19 +64,19 @@ I think the linking is the most exiting step in the chain. First a bit of inform
 
 Finally, among other things, it has a section `.reloc` that describes how data is arranged in the file, which is useful at execution time. It also includes a symbol table that maps symbols ("variable" names in high-level code?) to actual data. More details on the ELF format can be found here: [understanding the ELF format](https://blog.k3170makan.com/2018/10/introduction-to-elf-format-part-vi.html).
 
-The linker is in charge of taking this information and producing a machine-code file from it. In a **statically linked** executable, the dependencies (from compiled files `*.a`) are loaded into the executable itself. This is the simplest type of linking. In this case, the linker is in charge of producing the whole code that will be executed (no external calls will be made) and therefore it knows all the positions that will be reached. The drawback of this approach is that it produces large executable files. This is achieved in gcc by using the flag `-static`.
+The linker is in charge of taking this information and producing a machine-code file from it. In a ***statically linked*** executable, the dependencies (from compiled files `*.a`) are loaded into the executable itself. This is the simplest type of linking. In this case, the linker is in charge of producing the whole code that will be executed (no external calls will be made) and therefore it knows all the positions that will be reached. The drawback of this approach is that it produces large executable files. This is achieved in gcc by using the flag `-static`.
 
-In contrast, **dynamically linked** executables are not self-contained, and instead contain information about what they need, which is used at *runtime* to load what would be the full code to be executed, including dependencies. 
+In contrast, ***dynamically linked*** executables are not self-contained, and instead contain information about what they need, which is used at **runtime** to load what would be the full code to be executed, including dependencies. 
 
 ### More about dynamic linking
 
-The main reason why dynamic linking is way more complicated, is because many machine instructions require *absolute addresses*, but when dealing with a shared library it is not possible to know exaclty where this library will be loaded into memory, so pointing to it becomes hard. Explained by [Eli](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries):
+The main reason why dynamic linking is way more complicated, is because many machine instructions require **absolute addresses**, but when dealing with a shared library it is not possible to know exaclty where this library will be loaded into memory, so pointing to it becomes hard. Explained by [Eli](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries):
 
 > The reason for this is simple. Each program can use any number of shared libraries, and there's simply no way to know in advance where any given shared library will be loaded in the process's virtual memory.
 
 Things like memory-layout randomization also make this hard to follow.
 
-It is the job of the dynamic linker, or dynamic loader (`/lib/ld-linux.so.2`), to resolve this at run time. This can be handled either with *load-time relocation* or *position-indendent code*. In load-time relocation, the loader uses information in the `rel.dyn` section of the executable (to see it use `readelf -r *`) to correct the "errors" in the linking stage, which used "default and wrong" addresses for external dependencies.
+It is the job of the dynamic linker, or dynamic loader (`/lib/ld-linux.so.2`), to resolve this at run time. This can be handled either with **load-time relocation** or **position-indendent code**. In load-time relocation, the loader uses information in the `rel.dyn` section of the executable (to see it use `readelf -r *`) to correct the "errors" in the linking stage, which used "default and wrong" addresses for external dependencies.
 
 ### Position Independent Code (PIC)
 
@@ -88,7 +88,7 @@ This is achieved via GOTs (Global Offset Tables). These reside in the data secti
 
 There are much more details to this, explained in the article above.
 
-# Loaders
+<!-- Loaders -->
 
 I studied [this reference](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/). This link also provides a bunch of references for further reading. [Wikipedia article](https://en.wikipedia.org/wiki/Loader_(computing)).
 

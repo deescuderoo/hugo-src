@@ -1,0 +1,10 @@
+# Directory layout
+- **archetypes**: defines the templates for the metadata (aka front matter)
+- **content**: where the actual content files reside
+# Other
+- `index.html` is used for single pages while `_index.html` is used to add frontmatter to list/section pages (see [this](https://gohugo.io/content-management/page-bundles/))
+# Hugo cheatsheet
+
+`hugo server -D`
+# CCS
+- Selectors https://www.w3schools.com/cssref/css_selectors.asp

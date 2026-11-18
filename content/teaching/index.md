@@ -3,12 +3,12 @@ title: "Teaching"
 draft: false
 ---
 
-* Curso de criptografía - UNAL (2023)
-During the first semester of 2023, I taught a remote master-level course on *Multiparty Computation, Homomorphic Encryption and Zero-Knowledge Proofs*, at /Universidad Nacional de Colombia/, my undergrad university.
+# Curso de criptografía - UNAL (2023)
+During the first semester of 2023, I taught a remote master-level course on **Multiparty Computation, Homomorphic Encryption and Zero-Knowledge Proofs**, at *Universidad Nacional de Colombia*, my undergrad university.
 
-* A Crash Course on MPC - Shanghai Jiao Tong University (2021)
+# A Crash Course on MPC - Shanghai Jiao Tong University (2021)
 
-* Teaching Assistant
+# Teaching Assistant
 
 During the course of my PhD, I had the chance of being a teaching assistant for the following courses.
 

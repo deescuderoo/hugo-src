@@ -2,19 +2,19 @@
 title: "Hugo"
 draft: true
 ---
-* Tutorials
+# Tutorials
 - https://www.davd.io/blog-with-hugo-1-getting-started/
 - https://www.jakewiesler.com/blog/hugo-directory-structure/
 - https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
 
-* Server
+# Server
 To run server:
-#+BEGIN_SRC sh
+```sh
 $ hugo server
-#+END_SRC
-Use the ~-D~ flag if you want to compile draft files too.
-* Other things
+```
+Use the `-D` flag if you want to compile draft files too.
+# Other things
 - Taxonomies are like tag mechanisms. I don't need to use them (yet).
-- ~_index.org~ in the main ~content/~ directory is used to render the homepage. In general, an ~_index.org~ file in ~content/PATH/~ is used to render the list page of ~PATH~.
-- All layouts inherit from ~layouts/_default/baseof.html~.
+- `_index.md` in the main `content/` directory is used to render the homepage. In general, an `_index.md` file in `content/PATH/` is used to render the list page of `PATH`.
+- All layouts inherit from `layouts/_default/baseof.html`.
 - Everything under the static folder gets copied as-is to the root of the site.

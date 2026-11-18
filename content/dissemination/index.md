@@ -4,57 +4,57 @@ date:
 draft: false
 ---
 
-* A Crash Course on MPC
+# A Crash Course on MPC
 I am working on a series of posts explaining MPC from the ground up.
 
 The following are the current posts online:
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184][Part 0, Introduction]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-1-791c3e351d3c][Part 1, Basic Terminology and Essential Results]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-2-fe6f847640ae][Part 2, Two-Party Computation using Beaver/Multiplication Triples]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-3-c3f302153929][Part 3, Shamir Secret-Sharing]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-4-789eca123593][Part 4, Honest-Majority MPC with Passive Security]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-5-8171386754ef][Part 5, Error Detection and Error Correction]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-6-7728c985d16][Part 6: MPC with Active Security for t<n/3]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-7-23272abd3cd9][Part 7: Honest-Majority MPC with Active Security]]
-- [[https://medium.com/applied-mpc/a-crash-course-on-mpc-part-8-363374202e6][Part 8: Two-Party MPC with Active Security]]
+- [Part 0, Introduction](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184)
+- [Part 1, Basic Terminology and Essential Results](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-1-791c3e351d3c)
+- [Part 2, Two-Party Computation using Beaver/Multiplication Triples](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-2-fe6f847640ae)
+- [Part 3, Shamir Secret-Sharing](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-3-c3f302153929)
+- [Part 4, Honest-Majority MPC with Passive Security](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-4-789eca123593)
+- [Part 5, Error Detection and Error Correction](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-5-8171386754ef)
+- [Part 6: MPC with Active Security for t<n/3](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-6-7728c985d16)
+- [Part 7: Honest-Majority MPC with Active Security](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-7-23272abd3cd9)
+- [Part 8: Two-Party MPC with Active Security](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-8-363374202e6)
 
-* An Introduction to Secret-Sharing-Based Secure Multiparty Computation
+# An Introduction to Secret-Sharing-Based Secure Multiparty Computation
 
 I'm in the process of writing an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.
 This text serves as a general guide to this topic, focusing more on practical aspects of the techniques and constructions rather than their theoretical grounds. It is intended to serve as an introductory reference text for readers interested in the area, assuming essentially no background in these topics.
 
 This work in progress currently includes an introduction to several core concepts in secure multiparty computation, an overview of simulation-based security, and detailed constructions for honest and two-thirds honest majority MPC, and also dishonest majority in the preprocessing model.
 
-- Link to document: [[https://eprint.iacr.org/2022/062.pdf][https://eprint.iacr.org/2022/062.pdf]]
+- Link to document: [https://eprint.iacr.org/2022/062.pdf](https://eprint.iacr.org/2022/062.pdf)
 
-* A Course on MPC, FHE and ZKP: Universidad Nacional de Colombia (In Spanish, 2023)
-A master-level course I taught in Universidad Nacional de Colombia, Sede Medellín (my /alma mater/), on Secure Multiparty Computation, Fully Homomorphic Encryption, and Zero-Knowledge Proofs.
+# A Course on MPC, FHE and ZKP: Universidad Nacional de Colombia (In Spanish, 2023)
+A master-level course I taught in Universidad Nacional de Colombia, Sede Medellín (my *alma mater*), on Secure Multiparty Computation, Fully Homomorphic Encryption, and Zero-Knowledge Proofs.
 
-- Course plan, resources and homeworks: [[/pdfs/TAC-2023.pdf][here]]
+- Course plan, resources and homeworks: [here](/pdfs/TAC-2023.pdf)
 - Videos: https://youtube.com/playlist?list=PLeld-Hlf3EnrwZnvOT4IH5-2a-6HRaTG0
 
-* A Course on MPC: Virtual Course at Shanghai Jiao Tong University (2020-2021)
+# A Course on MPC: Virtual Course at Shanghai Jiao Tong University (2020-2021)
 
-** Part 1: Definitions, results and basic constructions
+## Part 1: Definitions, results and basic constructions
 
-*** Lecture 1.1
+### Lecture 1.1
 This lecture provides basic definitions of secure multiparty computation, including passive vs active security, information-threoretic vs computational security, abort vs fairness vs guaranteed output delivery, and some others.
 An overview of positive results attainable for each setting is also given.
 Finally, it also presents a general recipe to obtain MPC protocols using secret-sharing and Beaver/multiplication triples.
 - Link to video: https://www.bilibili.com/video/BV1Du411Z7vs/
 
-*** Lecture 1.2
+### Lecture 1.2
 This lecture introduces Shamir secret-sharing and uses it to obtain a passively secure protocol for t<n/2, which is then extended to active security under the threshold t<n/3. Finally, active statistical security for t<n/2 is described.
 Towards the end of the lecture the notion of replicated secret-sharing is also presented.
 - Link to video: https://www.bilibili.com/video/BV123411C7se/
 
-*** Lecture 1.3
+### Lecture 1.3
 This lecture focuses on the dishonest majority setting, where t<n. First, an MPC protocol in this setting is presented assuming certain preprocessed data in the form of multiplication triples.
 For active security, it is shown how to use message authentication codes (MACs) to prevent cheating.
 Then, to instantiate this preprocessing (in the passive case), the notions of oblivious transfer (OT) and oblivious linear evaluation (OLE) are presented, and they are instantiated using ElGamal encryption and additively homomorphic encryption based on Paillier, respectively.
 - Link to video: https://www.bilibili.com/video/BV1c34y1m7Ko/
 
-*** Lecture 1.4
+### Lecture 1.4
 This lecture discusses applications and efficiency trade-offs of MPC.
 This includes use-cases where MPC has been used, and also frameworks for MPC such as MP-SPDZ and some others.
 Then, a special-purpose protocol for the task of signing with ECDSA using a secret-shared signing key is presented.
@@ -64,19 +64,19 @@ This includes secure truncation, which is necessary for emulating fixed-point ar
 Finally, applications to neural networks are presented.
 - Link to video: https://www.bilibili.com/video/BV1J3411C7P5/
 
-** Part 2: Formalization, simulation-based security and impossibility results
-*** Lecture 2.1
+## Part 2: Formalization, simulation-based security and impossibility results
+### Lecture 2.1
 This lecture presents the framework to prove security of MPC protocols, namely simulation-based security, starting with two parties and passive security.
 Then, the security of a basic two-party protocol studied before, which uses additive secret-sharing and multiplication triples, is proven formally.
 This implies describing in full detail a simulator for the protocol, and arguing the indistinguishability of the real and ideal worlds.
 - Link to video: https://www.bilibili.com/video/BV1Pv41137tM/
 
-*** Lecture 2.2
+### Lecture 2.2
 This lecture extends the notion of simulation-based security to the case of active security, and then the security of a previously studied two-party protocol using multiplication triples and MAC-based authentication is formally proven.
 Finally, a note on the composability of protocols is made, and the universal composability (UC) framework is introduced.
 - Link to video: https://www.bilibili.com/video/BV1CP4y1t7H2/
 
-*** Lecture 2.3
+### Lecture 2.3
 This lecture presents more formally the UC framework, and the security of the Shamir-based actively secure protocol for t<n/3 studied in lecture 1.2 is formally proven within this framework.
 Finally, some intuition on some of the most fundamental impossibility results in the area of MPC is provided, namely: (1) information-theoretic security requires honest majority, and (2) perfect and active security requires t<n/3.
 - Link to video: https://www.bilibili.com/video/BV1xf4y1g7FA/

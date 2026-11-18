@@ -3,9 +3,9 @@ title: "About"
 draft: false
 ---
 
-* Daniel Escudero
+# Daniel Escudero
 
-Hello! Welcome to my homepage. I am Daniel Escudero, and I am a Senior MPC Researcher at [[https://taceo.io/][TACEO]]. Prior to this, I was a Research Scientist at [[https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/algocrypt-center-of-excellence][JP Morgan AlgoCRYPT Center of Excellence]] and [[https://www.jpmorgan.com/technology/artificial-intelligence][JP Morgan AI Research]]. From May 2017 to August 2021, I was a PhD student at the [[http://users-cs.au.dk/orlandi/cryptogroup/][Cryptography and Security group at Aarhus University]], Denmark, working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor's degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.
+Hello! Welcome to my homepage. I am Daniel Escudero, and I am a Senior MPC Researcher at [TACEO](https://taceo.io/). Prior to this, I was a Research Scientist at [JP Morgan AlgoCRYPT Center of Excellence](https://www.jpmorgan.com/technology/artificial-intelligence/initiatives/algocrypt-center-of-excellence) and [JP Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence). From May 2017 to August 2021, I was a PhD student at the [Cryptography and Security group at Aarhus University](http://users-cs.au.dk/orlandi/cryptogroup/), Denmark, working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor's degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.
 
 In general, my research focuses on cryptographic techniques that allows us to perform computation on private data. This includes, for example, topics like secure multiparty computation (MPC), fully homomorphic encryption (FHE), and zero-knowledge proofs (ZKP).
 I'm interested both in theory and practice, ranging from interesting connections between algebra and cryptography (like the study of MPC or ZKP over more general rings than finite fields), to actual implementations and even deployments in real use-cases of these systems.
@@ -32,6 +32,6 @@ There are some other topics that I am either currently exploring, or planning to
 
 On my free time I deeply enjoy motorcycle riding, making music and  playing videogames.
 
-*Contact:* first (at) last (dot) me
+**Contact:** first (at) last (dot) me
 
-An updated version of my CV can be found [[/pdfs/Curriculum_Vitae.pdf][here]].
+An updated version of my CV can be found [here](/pdfs/Curriculum_Vitae.pdf).

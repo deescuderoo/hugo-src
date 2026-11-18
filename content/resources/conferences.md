@@ -5,11 +5,11 @@ description: "List of different relevant venues and events"
 draft: true
 ---
 
-Below are listed some of the conferences, workshops, and journals, that *I personally* consider relevant. As a disclaimer, this is not meant to imply that there are no other venues that are generally important for our field, and conversely, that all of the venues here are supposed to be significant to other similar researchers.
+Below are listed some of the conferences, workshops, and journals, that **I personally** consider relevant. As a disclaimer, this is not meant to imply that there are no other venues that are generally important for our field, and conversely, that all of the venues here are supposed to be significant to other similar researchers.
 
-* Conferences
+# Conferences
 
-** Tier 1
+## Tier 1
 
 - CRYPTO
 - EUROCRYPT
@@ -23,14 +23,14 @@ Below are listed some of the conferences, workshops, and journals, that *I perso
 - STOC
 - FOCS
 
-** Tier 2
+## Tier 2
 
 - PKC
 - EuroSP
 - AsiaCCS
 - ESORICS
 
-** Tier 3
+## Tier 3
 
 - ProvSec
 - PETS
@@ -43,9 +43,9 @@ Below are listed some of the conferences, workshops, and journals, that *I perso
 - Africacrypt
 - PQCrypto
 - ITC (Information Theoretic Cryptography)
-- PODC (ACM Symposium on Principles of Distributed Computing) (*this is probably top tier in distributed computing*)
+- PODC (ACM Symposium on Principles of Distributed Computing) (**this is probably top tier in distributed computing**)
 
-** Tier 4
+## Tier 4
 
 - ICALP (International Colloquium on Automata, Languages, and Programming)
 - IMACC (IMA International Conference on Cryptography and Coding)
@@ -57,14 +57,14 @@ Below are listed some of the conferences, workshops, and journals, that *I perso
 - NBiS  (International Conference on Network-Based Information Systems)
 - SODA (?)
 
-* Workshops
+# Workshops
 
 - RWC (Real World Crypto)
 - PPML (CRYPTO and CCS)
 - TPMPC
 - PPAI (Privacy-Preserving Artificial Intelligence)
 
-* Journals
+# Journals
 
 - IEEE Transactions on Dependable and Secure Computing
 - International Journal of Information Security
@@ -81,7 +81,7 @@ Below are listed some of the conferences, workshops, and journals, that *I perso
 - Journal of Groups, Complexity, Cryptology
 - International journal of Applied Cryptography
 
-** Mathematical Cryptography
+## Mathematical Cryptography
 
 - Mathematical Cryptology
 - Journal of Mathematical Cryptology
@@ -90,4 +90,4 @@ Below are listed some of the conferences, workshops, and journals, that *I perso
 - International Journal of Algebra and Computation
 - Journal of Algebra and its Applications
 - International Journal of Computer Mathematics
-  
+

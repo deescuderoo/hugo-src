@@ -3,7 +3,7 @@ title: "Talks"
 draft: false
 ---
 
-* 2026
+# 2026
 - Quorus: Efficient, Scalable Threshold ML-DSA from MPC
   - NTT Japan Seminar
   - Tokyo, Japan
@@ -25,13 +25,13 @@ draft: false
   - May 2026
 
 
-* 2025
+# 2025
 - L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
   - JPMC AlgoCRYPT Seminars
   - New York, USA
   - January 2025
 
-* 2024
+# 2024
 - L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing
   - Kolkata Cryptoday
   - Kolkata, India
@@ -56,7 +56,7 @@ draft: false
   - Abu Dhabi, UAE
   - January 2024
 
-* 2023
+# 2023
 - TurboPack: Honest Majority MPC with Constant Online Communication
   - Microsoft Research
   - Bangalore, India
@@ -77,7 +77,7 @@ draft: false
   - Virtual Event
   - September 2023
 
-- Panelist at [[https://ghtcworkshop.tii.ae/2023/][Crypto meets AI - GHTC]]
+- Panelist at [Crypto meets AI - GHTC](https://ghtcworkshop.tii.ae/2023/)
   - Affiliated event at CRYPTO'23
   - Santa Barbara (CA), USA
   - August 2023
@@ -88,7 +88,7 @@ draft: false
   - June 2023
 
 
-* 2022
+# 2022
 - TurboPack: Honest Majority MPC with Constant Online Communication
   - NYU Crypto seminar
   - New York City, USA
@@ -109,7 +109,7 @@ draft: false
   - Virtual Event
   - May 2022
 
-* 2021
+# 2021
 
 - Improved single-round secure multiplication using regenerating codes
   - Asiacrypt 2021
@@ -131,7 +131,7 @@ draft: false
   - Virtual Conference
   - August 2021
 
-* 2020
+# 2020
 
 - PRIMAL: A Framework for Secure Evaluation of Neural Networks
   - OpenMined Privacy Conference
@@ -147,7 +147,7 @@ draft: false
   - Virtual Conference
   - June 2020
 
-* 2019
+# 2019
 
 - New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning 
   - TPMPC: Workshop on Theory and Practice of Multi-Party Computation
@@ -157,8 +157,8 @@ draft: false
   - 40th IEEE Symposium on Security and Privacy (S&P 2019)
   - San Francisco, CA. United States.
   - May 20-22, 2019
-    
-* 2018
+
+# 2018
 
 - SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority
   - CRYPTO 2018: 38th International Cryptology Conference
@@ -175,14 +175,14 @@ draft: false
   - Fort Lauderdale, USA.
   - April 2018.
 
-* 2017
+# 2017
 
 - Secure Multiparty Computation
   - ICAMI: International Conference on Applied Mathematics and Informatics
   - San Andrés, Colombia.
   - November 2017.
 
-* 2016
+# 2016
 
 - Algebraic attacks on MPK cryptosystems
   - Crypto-CO: Summer school on Cryptography

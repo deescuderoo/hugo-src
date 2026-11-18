@@ -4,7 +4,7 @@ date:
 draft: false
 ---
 
-* Music
+# Music
 
 I enjoy playing and composing music.
 
