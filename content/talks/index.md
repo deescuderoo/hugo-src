@@ -4,15 +4,20 @@ draft: false
 ---
 
 # 2026
-- Quorus: Efficient, Scalable Threshold ML-DSA from MPC
-  - NTT Japan Seminar
-  - Tokyo, Japan
-  - March 2026
+- Merces: Confidential Token Transfers via MPC and CoSNARKs
+  - Seminar at Universidad de Chile
+  - Santiago de Chile, Chile
+  - July 2026
+
+- Secure multiparty computation: desde matemáticas fundamentales hasta la protección de la privacidad a nivel global (Invited Talk)
+  - 4th Colombian Conference on Applied and Industrial Mathematics (MAPI 4)
+  - Cali, Colombia
+  - June 2026
 
 - Quorus: Efficient, Scalable Threshold ML-DSA from MPC
-  - Academia Sinica Seminar
-  - Taipei, Taiwan
-  - April 2026
+  - Cryptography Seminar at École Polytechnique
+  - Paris, France
+  - May 2026
 
 - Merces: Confidential Token Transfers via MPC and CoSNARKs
   - Bangalore Cryptoday
@@ -20,9 +25,14 @@ draft: false
   - April 2026
 
 - Quorus: Efficient, Scalable Threshold ML-DSA from MPC
-  - Cryptography Seminar at École Polytechnique
-  - Paris, France
-  - May 2026
+  - Academia Sinica Seminar
+  - Taipei, Taiwan
+  - April 2026
+
+- Quorus: Efficient, Scalable Threshold ML-DSA from MPC
+  - NTT Japan Seminar
+  - Tokyo, Japan
+  - March 2026
 
 
 # 2025

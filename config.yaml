@@ -31,12 +31,6 @@ menu:
     - name: Teaching
       url: "teaching/"
       weight: 6
-    - name: Music
-      url: "music/"
-      weight: 7
-    - name: Seminar
-      url: "seminar/"
-      weight: 8
     # - name: Resources
     #   url: "resources/"
     #   weight: 8
