@@ -32,6 +32,4 @@ There are some other topics that I am either currently exploring, or planning to
 
 On my free time I deeply enjoy motorcycle riding, making music and  playing videogames.
 
-**Contact:** first (at) last (dot) me
-
 An updated version of my CV can be found [here](/pdfs/Curriculum_Vitae.pdf).

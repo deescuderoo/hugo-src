@@ -10,7 +10,7 @@ draft: false
   - July 2026
 
 - Secure multiparty computation: desde matemáticas fundamentales hasta la protección de la privacidad a nivel global (Invited Talk)
-  - 4th Colombian Conference on Applied and Industrial Mathematics (MAPI 4)
+  - [4th Colombian Conference on Applied and Industrial Mathematics (MAPI 4)](https://scm.org.co/web/congresos/mapi-4/)
   - Cali, Colombia
   - June 2026
 
@@ -20,7 +20,7 @@ draft: false
   - May 2026
 
 - Merces: Confidential Token Transfers via MPC and CoSNARKs
-  - Bangalore Cryptoday
+  - [Bangalore Cryptoday](https://events.csa.iisc.ac.in/bcd/bcd07/)
   - Bangalore, India
   - April 2026
 

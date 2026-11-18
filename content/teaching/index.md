@@ -4,7 +4,7 @@ draft: false
 ---
 
 # Signatures based on MPC-in-the-Head - CIMPA School, Santiago de Chile (2026)
-In July 2026, I taught a 6-hour course on **Signatures based on MPC-in-the-Head** at the *Escuela CIMPA sobre Criptografía post-cuántica algebraica y aplicaciones*, in Santiago, Chile.
+In July 2026, I taught a 6-hour course on **Signatures based on MPC-in-the-Head** at the *[Escuela CIMPA sobre Criptografía post-cuántica algebraica y aplicaciones](https://santiago2026.gaati.org/presentation/en/)*, in Santiago, Chile.
 
 # A Crash Lecture on MPC - TU Graz (2026)
 In April 2026, I gave a crash lecture on **Secure Multiparty Computation** at *TU Graz*, Austria.

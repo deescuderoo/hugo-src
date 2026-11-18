@@ -1,0 +1,11 @@
+<script>
+  // Count down the peer-reviewed publications: newest = total, oldest = [1].
+  (function () {
+    var h = document.getElementById('peer-reviewed-publications');
+    if (!h) return;
+    var all = document.querySelectorAll('#peer-reviewed-publications ~ ul > li').length;
+    var theses = document.querySelectorAll('#theses ~ ul > li').length;
+    h.style.counterReset = 'pub ' + (all - theses + 1);
+    document.body.classList.add('pub-numbered');
+  })();
+</script>

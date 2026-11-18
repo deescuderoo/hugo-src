@@ -3,18 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <title>{{ if .IsHome }}{{ with .Site.Params.name }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}{{ else }}{{ .Title }} | {{ with .Site.Params.name }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
   </head>
 
   <body>
-    <nav>
-    <ul class="menu">
-      {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    <hr/>
-    </nav>
+    <header class="site-header">
+      <a class="site-name" href="{{ "/" | relURL }}">{{ with .Site.Params.name }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</a>
+      <nav>
+        <ul class="menu">
+          {{ $current := .RelPermalink }}
+          {{ range .Site.Menus.main }}
+          {{ $url := .URL | relURL }}
+          <li><a href="{{ $url }}"{{ if and (ne $url "/") (hasPrefix $current $url) }} class="active" aria-current="page"{{ end }}>{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </header>

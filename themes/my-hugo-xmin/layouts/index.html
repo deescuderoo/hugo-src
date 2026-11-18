@@ -1,18 +1,28 @@
 {{ partial "header.html" . }}
 
-<div class="index-title">{{ .Title | markdownify }}</div>
-{{ .Content }}
+<section class="hero">
+  {{- with resources.Get "images/me-circle.png" -}}
+  {{- $img := .Resize "440x" -}}
+  <img class="hero-photo" src="{{ $img.RelPermalink }}" width="220" height="220" alt="{{ $.Site.Params.name }}">
+  {{- end }}
+  <div class="hero-text">
+    <h1 class="hero-name">{{ .Title | markdownify }}</h1>
+    {{ with .Params.subtitle }}<p class="hero-subtitle">{{ . | markdownify }}</p>{{ end }}
+    <div class="hero-intro">{{ .Content }}</div>
+    <ul class="hero-links">
+      {{ with .Site.Params.links.cv }}<li><a href="{{ . | relURL }}">CV</a></li>{{ end }}
+      {{ with .Site.Params.links.email }}<li><a href="#" class="js-email" data-user="{{ index . 0 }}" data-domain="{{ index . 1 }}">Email</a></li>{{ end }}
+      {{ with .Site.Params.links.scholar }}<li><a href="{{ . }}">Google Scholar</a></li>{{ end }}
+      {{ with .Site.Params.links.dblp }}<li><a href="{{ . }}">DBLP</a></li>{{ end }}
+      {{ with .Site.Params.links.github }}<li><a href="{{ . }}">GitHub</a></li>{{ end }}
+    </ul>
+  </div>
+</section>
 
-
-{{ $image := "images/me-circle.png" }}
-{{- $img := resources.Get $image -}}
-<br>
-
-<figure> 
-  {{- $img := resources.Get $image -}}
-  <img src="{{- $img.Permalink | relURL -}}" 
-       style="width:512px" alt="Myself" class="center">
-</figure>
+<script>
+  document.querySelectorAll('.js-email').forEach(function (a) {
+    a.href = 'mailto:' + a.dataset.user + '@' + a.dataset.domain;
+  });
+</script>
 
 {{ partial "footer.html" . }}
-

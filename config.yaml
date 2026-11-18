@@ -13,9 +13,6 @@ permalinks:
 
 menu:
   main:
-    - name: Home
-      url: ""
-      weight: 1
     - name: About
       url: "about/"
       weight: 2
@@ -36,8 +33,14 @@ menu:
     #   weight: 8
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "Template from Yihui Xie (https://yihui.org) 2017 -- 2020"
+  name: "Daniel Escudero"
+  description: "Personal website of Daniel Escudero, cryptography researcher."
+  footer: "© Daniel Escudero · Built with [Hugo](https://gohugo.io)"
+  links:
+    cv: "/pdfs/Curriculum_Vitae.pdf"
+    email: ["daniel", "escudero.me"]
+    scholar: "https://scholar.google.com/citations?user=ogtdKrAAAAAJ&hl=en&oi=ao"
+    dblp: "https://dblp.uni-trier.de/pid/05/4011-1.html"
   show-date: 0
 
 markup:

@@ -247,19 +247,19 @@ Unless noted otherwise, publications are in **alphabetical order**.
 
 ## 2018
 
-3. SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
+- SPDZ2k: Efficient MPC mod 2^k for Dishonest Majority 
   - **Authors:** Ronald Cramer, Ivan Damgård, Daniel Escudero, Peter Scholl, Chaoping Xing.
   - CRYPTO 2018
   - [Link](https://eprint.iacr.org/2018/482)
 
-2. Rank Analysis of Cubic Multivariate Cryptosystems 
+- Rank Analysis of Cubic Multivariate Cryptosystems 
   - **Authors:** John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Karan Khathuria, and Javier A. Verbel.
   - PQCrypto 2018
   - [Link](https://eprint.iacr.org/2018/110)
 
 ## 2016
 
-1. Efficient ZHFE Key Generation 
+- Efficient ZHFE Key Generation 
   - **Authors:** John B. Baena, Daniel Cabarcas, Daniel E. Escudero, Jaiberth Porras- Barrera, and Javier A. Verbel.
   - PQCrypto 2016
 
